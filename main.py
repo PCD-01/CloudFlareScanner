@@ -2,10 +2,6 @@ import threading
 import time
 import requests
 
-# print(threading.active_count()) # 显示当前激活的线程数
-# print(threading.enumerate()) # 显示当前激活的线程
-# print(threading.current_thread()) # 当前运行的线程 
-
 ip1 = 1
 ip2 = 1
 ip3 = 1
